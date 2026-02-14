@@ -7,8 +7,7 @@ Làm bằng cả sự chân thành (và hơi sến 😆).
 
 ## 👉 Xem trực tiếp tại đây
 🔗 **Live demo:**  
-https://lllbyhuy.github.io/happy-new-year-to-Ngoc/
-
+https://illbyhuy.github.io/happy-new-year-to-Ngoc/
 ---
 
 ## 📸 Preview
